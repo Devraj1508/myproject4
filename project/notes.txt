@@ -1,0 +1,2 @@
+Note 1: Learn Git
+Note 2: Practice daily
