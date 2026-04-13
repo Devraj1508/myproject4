@@ -1,0 +1,2 @@
+its my first git project
+so that's why I creating this file
